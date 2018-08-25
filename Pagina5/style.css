@@ -1,0 +1,413 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.sesion1{
+    overflow: hidden;
+    width: 46.3%;
+    background-color: #2c3940;
+    float: left;
+    height: 450px;
+}
+.sesion1 p{
+    background-color: yellow;
+    width: 10%;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+.sesion2{
+    overflow: hidden;
+    float: left;
+    width: 53.7%;
+    height: 450px;
+}
+.sesion2 img{
+    width: 100%;
+    height: 450px;
+}
+.sesion3{
+    position: absolute;
+    top: 30px;
+    left: 388px;
+    color: white;
+    word-spacing: 25px;
+}
+.sesion3 li{
+display: inline-block;
+}
+.sesion3 li a{
+text-decoration: none;
+}
+.sesion2 h1{
+    position: absolute;
+    top: 209px;
+    left: 268px;
+    color: white;
+}
+.sesion2 p{
+    position: absolute;
+    top: 270px;
+    color: white;
+}
+.sesion2 a{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 300px;
+    left: 270px;
+
+}
+.sesion4 {
+    color: yellow;
+}
+.sesion5{
+    overflow: hidden;
+    float: left;
+    background: antiquewhite;
+    width: 100%;
+    height: 540px;
+}
+.sesion5 h1{
+    position: absolute;
+    width: 15%;
+    height: 132px;
+    top: 574px;
+    left: -521px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 32px;
+}
+.sesion9 {
+    position: absolute;
+    /* width: 15%; */
+    /* height: 132px; */
+    top: 634px;
+    left: -575px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 32px;
+}
+.sesion10{
+    position: absolute;
+    width: 46%;
+   
+    top: 677px;
+    left: -175px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+   z-index: 1;
+    font-size: 26px;
+
+}
+.sesion6{
+    background-color: yellow;
+    width: 5%;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+.sesion7{
+    color: yellow;
+    margin-left: -35px;
+}
+.sesion8{
+    position: absolute;
+    width: 38%;
+    
+    right: 164px;
+    opacity: 0.6;
+}
+.sesion8 img{
+    width: 100%;
+    height: 420px;
+}
+.sesion11{
+    overflow: hidden;
+    width: 46.3%;
+    background-color: #2c3940;
+    float: left;
+    height: 450px;
+}
+.sesion11 p{
+    background-color: yellow;
+    width: 10%;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+.sesion12{
+    overflow: hidden;
+    float: left;
+    width: 53.7%;
+    height: 450px;
+}
+.sesion12 img{
+    width: 100%;
+    height: 450px;
+}
+.sesion12 h1{
+    position: absolute;
+    top: 1075px;
+    left: 80px;
+    font-size: 30px;
+    color: white;
+
+}
+.sesion13{
+    color: yellow;
+}
+.sesion12 p{
+
+}
+.sesion14{
+    overflow: hidden;
+    float: left;
+    background: white;
+    width: 50%;
+    height: 450px;
+}
+.sesion14 p{
+    background: yellow;
+    width: 10%;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    margin: 15px;
+}
+.sesion15 {
+    font-size: 30px;
+    margin-left: 245px;
+}
+.sesion16{
+    color: yellow;
+}
+.sesion17{
+    width: 25%;
+    margin-left: 355px;
+    list-style-type: none;
+    overflow: hidden;
+    float: left;
+}
+.sesion17 li{
+    margin-top: 40px;
+}
+.sesion17-1{
+    overflow: hidden;
+    float: left;
+    width: 50%;
+    height: 450px;
+}
+.sesion18{
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    /* height: 450px; */
+    display: inline-flex;
+}
+.sesion18 li{
+    width: 50%;
+    display: inline-table;
+    list-style-type: none;
+}
+.sesion18 img{
+    width: 100%;
+    height: 210px;
+}
+.sesion19{
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    display: inline-flex;
+
+}
+.sesion19 li{
+    width: 61%;
+}
+.sesion19 img{
+    width: 100%;
+    height: 236px;
+}
+.sesion20{
+    background-color: #3C4561;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    float: left;
+}
+.sesion20 .sesion20-1{
+    background: yellow;
+    width: 5%;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    margin: 15px;
+
+}
+.sesion20 h1{
+    margin-left: 120px;
+    font-size: 25px;
+}
+.sesion21{
+    margin-left: 1px;
+    color: yellow;
+
+}
+.sesion22{
+    color: white;
+    margin-left: 120px;
+    width: 20%;
+    margin-top: 30px;
+    font-size: 14px;
+}
+.sesion23{
+
+    width: 12%;
+    margin-left: 120px;
+    height: 2px;
+    background-color: yellow;
+    margin-top: 15px;
+}
+.sesion24{
+    overflow: hidden;
+    float: left;
+    width: 100%;
+}
+.sesion24 li{
+    display: inline-block;
+    text-decoration: none;
+    width: 29%;
+    float: left;
+}
+.sesion24 img{
+    width: 65%;
+    height: 198px;
+}
+.sesion25{
+
+}
+.sesion25 li{
+    
+}
+.sesion25 img{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
